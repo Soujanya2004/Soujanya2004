@@ -1,6 +1,6 @@
 # Hello, I'm Soujanya C 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=pink)
 
 ## 🧑‍💻 About Me
 I am a passionate developer with a keen interest in full stack development. I love working on projects that involve passion and innovtation, and I am always eager to learn new technologies and improve my skills.
@@ -9,7 +9,6 @@ I am a passionate developer with a keen interest in full stack development. I lo
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -21,8 +20,6 @@ I am a passionate developer with a keen interest in full stack development. I lo
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Databases
@@ -33,7 +30,7 @@ I am a passionate developer with a keen interest in full stack development. I lo
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/soujanya2004)
 
 - ## 📈 GitHub Contribution Graph
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=soujanya2004&theme=react-dark)
 
 - ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
