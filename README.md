@@ -29,8 +29,8 @@ I am a passionate developer with a keen interest in full stack development. I lo
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/soujanya2004)
 
-- ## 📈 GitHub Contribution Graph
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Soujanya2004&theme=react-dark)
+## 📊 Contribution Graph
+[![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Soujanya2004&theme=react-dark)](https://github.com/Soujanya2004/github-readme-activity-graph)
 
 - ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
