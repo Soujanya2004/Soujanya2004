@@ -1,6 +1,6 @@
 # Hello, I'm Soujanya C 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=pink)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## 🧑‍💻 About Me
 I am a passionate developer with a keen interest in full stack development. I love working on projects that involve passion and innovtation, and I am always eager to learn new technologies and improve my skills.
@@ -30,7 +30,7 @@ I am a passionate developer with a keen interest in full stack development. I lo
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/soujanya2004)
 
 - ## 📈 GitHub Contribution Graph
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=soujanya2004&theme=react-dark)
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Soujanya2004&theme=react-dark)
 
 - ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
