@@ -42,7 +42,7 @@ I am a passionate developer with a keen interest in full stack development. I lo
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/soujanya2004)
+- LinkedIn: [Soujanya2004](https://www.linkedin.com/in/soujanya2004)
 
 
 
