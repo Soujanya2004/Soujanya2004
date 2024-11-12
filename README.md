@@ -53,3 +53,8 @@ Let's collaborate and grow together! Feel free to reach out:
 <div align="center">
   <img src="https://github.com/Soujanya2004/Soujanya2004/blob/main/assets/thank-you.gif" width="200px" />
 </div>
+<div align="center">
+  <a href="https://github.com/Soujanya2004">
+      <img src="https://avatars.githubusercontent.com/Soujanya2004" alt="Your Profile" style="width: 200px; height: 200px; border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
