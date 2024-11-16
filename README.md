@@ -1,5 +1,5 @@
 # Hello, I'm Soujanya C 👋 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Soujanya2004&color=blue)
 
 
 
