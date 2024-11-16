@@ -1,8 +1,9 @@
-# Hello, I'm Soujanya C 👋
-
+# Hello, I'm Soujanya C 👋 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🧑‍💻 About Me
 
@@ -54,7 +55,6 @@ Let's collaborate and grow together! Feel free to reach out:
   <img src="https://github.com/Soujanya2004/Soujanya2004/blob/main/assets/thank-you.gif" width="200px" />
 </div>
 <div align="center">
-  <a href="https://github.com/Soujanya2004">
-      <img src="https://avatars.githubusercontent.com/Soujanya2004" alt="Your Profile" style="width: 200px; height: 200px; border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
-  </a>
+ 
+<img src="https://private-user-images.githubusercontent.com/99337968/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE3MzQwMzcsIm5iZiI6MTczMTczMzczNywicGF0aCI6Ii85OTMzNzk2OC8zMTM0NTA0NjQtMmJkMDU0MjItM2EzYi00ZDdjLTk0YTEtN2NkYjU4NGMwOWQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE2VDA1MDg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1MDJiODY0ODcyYTNiNjdjYTNiMWZmOTY0MGIxMDNmNTk5NDE0MjEzZWUxMjdmYmE5MmIxODNiNGUyNWUxNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yhBstQLCVPIxgGr0CyzcG7MHdoBZu9x6ZcmjJXiEWBA" width="200" height="200" style="float: right; margin-left: 800px;">
 </div>
