@@ -14,7 +14,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🚀 Skills & Technologies
-<img src="https://skillicons.dev/icons?i=git,css,discord,express,github,html,java,js,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,vscode&perline=14" />
+<img src="https://skillicons.dev/icons?i=git,css,discord,express,github,html,java,js,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode&perline=10" />
   <h3>🔧 Tools</h3>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
