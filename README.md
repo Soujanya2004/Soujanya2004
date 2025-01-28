@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-✨ Passionate *Full Stack Developer* with a love for creating *innovative solutions* and exploring new technologies. I'm dedicated to continuous learning, problem-solving, and collaborating on projects that bring impactful change!
+✨ Passionate *Full Stack Developer* with a love for creating and coding *innovative solutions* and exploring new technologies. I'm dedicated to continuous learning, problem-solving, and collaborating on projects that bring impactful change!
 - 🔭 I’m currently working on Wanderlust.
 - 💬 Ask me about web development, open source, and tech communities.
 
