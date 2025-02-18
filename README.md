@@ -1,4 +1,4 @@
-# Hello, I'm Soujanya C 👋 
+# Hello, I am Soujanya C 👋 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soujanya2004&color=blue)
 
 
