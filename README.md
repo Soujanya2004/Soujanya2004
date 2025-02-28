@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 ✨ Passionate *Full Stack Developer* with a love for creating and coding *innovative solutions* and exploring new technologies. I'm dedicated to continuous learning, problem-solving, and collaborating on projects that bring impactful change!
-- 🔭 I’m currently working on Wanderlust.
+- 🔭 I’m currently working on Aerovia.
 - 💬 Ask me about web development, open source, and tech communities.
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
